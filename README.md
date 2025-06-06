@@ -70,7 +70,7 @@ Este projeto é uma API backend que permite a criação e gestão de empresas e 
 
    ```
     DATABASE_URL="postgresql://usuario:senha@localhost:5432/nome_banco?schema=public"
-    JWT_SECRET="sua-chave"
+    SECRET_KEY="sua-chave"
     JWT_EXPIRES_IN="1d"
 
    ```
