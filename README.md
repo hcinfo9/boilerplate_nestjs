@@ -66,7 +66,7 @@ Este projeto é uma API backend que permite a criação e gestão de empresas e 
 
 <br/>
 
-3. Configurar ambiente
+3. Configurar ambiente criando o arquivo .env
 
    ```
     DATABASE_URL="postgresql://usuario:senha@localhost:5432/nome_banco?schema=public"
