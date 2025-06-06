@@ -105,8 +105,10 @@ Este projeto é uma API backend que permite a criação e gestão de empresas e 
 
 ## 📌 Rotas da API
 
-## Empresa
+<br/>
 
+  ## Empresa
+  
   POST /companies: Cria uma nova Empresa. <strong>(Requer autenticação)</strong>
 
   GET /companies: Lista todas as Empresas.
@@ -117,6 +119,7 @@ Este projeto é uma API backend que permite a criação e gestão de empresas e 
 
   DELETE /companies/:id: Remove uma Empresa pelo ID. <strong>(Requer autenticação)</strong>
 
+<br/>
 
 ## Produtos
 
